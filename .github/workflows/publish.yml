@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Make Pandoc available
-        uses: r-lib/actions/setup-pandoc@v1
+        uses: r-lib/actions/setup-pandoc@v2
         with:
           pandoc-version: '3.1.11'
 

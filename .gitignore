@@ -1,0 +1,4 @@
+# .gitignore
+
+# Ignore the gh-pages worktree directory
+gh-pages/

@@ -1,0 +1,27 @@
+---
+name: compile
+on:
+  push:
+    branches:
+      - main
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Configure Git for Github
+        run: |
+          git config --global user.name "${GITHUB_ACTOR}"
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Make Pandoc available
+        uses: r-lib/actions/setup-pandoc@v1
+        with:
+          pandoc-version: '3.1.11'
+
+      - name: Publish Site
+        env:
+          REPOSITORY: "https://${{ secrets.GITHUB_PAT }}@github.com/${{ github.repository }}.git"
+        run: bash publish.sh

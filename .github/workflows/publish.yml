@@ -1,5 +1,5 @@
 ---
-name: compile
+name: Publish to Github Pages
 on:
   push:
     branches:

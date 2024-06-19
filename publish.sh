@@ -22,7 +22,7 @@ update_changed_on_message() {
   sed -i "s/^${prompt}/${prompt}${timestamp}/" "${file}"
 }
 
-Exit if there are local changes
+# Exit if there are local changes
 if [ "$(git status -s)" ]; then
   printf 'Changes detected in working directory. Commit them before proceeding.\n'
   exit 1

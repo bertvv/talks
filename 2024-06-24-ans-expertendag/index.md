@@ -3,13 +3,15 @@ title: "Examens met Ans - een casus"
 subtitle: "Expertendag DIIN"
 author: "Bert Van Vreckem"
 date: 2024-06-24
+controlsLayout: 'edges'
 ---
 
 # Examens met ans
 
 ## Casus
 
-- Examen Linux voor ops / data engineers
+Examen Linux voor ops / data engineers
+
 - Digitaal examen
 - Individuele examenopgaven
 - Alle leerstof komt aan bod in een opgave
@@ -19,16 +21,11 @@ date: 2024-06-24
 - Ans activeren
 - Leerdoelen opstellen
 - Itembank aanmaken
-    - Voorbeelden van open vragen
-    - Koppelen aan leerdoelen
-    - Beoordelingsmodellen
-    - Python
-- Toetsmatrijs
-- Opgave genereren
+    - Focus op open vragen
+- Opgave voorbereiden
+    - Toetsmatrijs
+    - Genereren
 - Examen afnemen
-- Beoordelen
-    - Beoordelingsmodel gebruiken
-    - Problemen oplossen
 
 # Voorbereiding
 
@@ -207,7 +204,7 @@ Doe dit pas als de toets klaar is! Wijzigingen in vragen komen niet meteen in de
 ## Toetsinstellingen
 
 - Toegankelijkheid
-    - Aantal pogingen beperken 
+    - Aantal pogingen beperken
     - Wachtwoord
 - Hulpmiddelen, bv. kladblok, chat, rekenmachine
 - Verlaten tabblad/knippen en plakken rapporteren
@@ -241,8 +238,6 @@ Doe dit pas als de toets klaar is! Wijzigingen in vragen komen niet meteen in de
 ## Eindcontrole
 
 - Rechtsonder: "Toets bekijken"
-
-# Tijdens het examen
 
 ## Examenafname opvolgen
 

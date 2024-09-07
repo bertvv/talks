@@ -316,15 +316,23 @@ Aanpassingen blijven mogelijk!
 
 Veel mogelijk, nog niet geprobeerd 😉
 
-# That's it!
+# Tot slot
+
+## En nu?
+
+- Word lid van het Teams-kanaal "Ans"
+- Handleidingen/startgids Ans op Sharepoint
+    - [Handleidingen](https://hogent.sharepoint.com/sites/Handleidingenonderwijstechnologie/SitePages/Ans--inleiding.aspx)
+    - [Startgids](https://hogent.sharepoint.com/sites/Handleidingenonderwijstechnologie/SitePages/Startgids.aspx)
+- Online handleiding Ans
+    - EN: <https://support.ans.app/hc/en-us/>
+    - NL: <https://support.ans.app/hc/nl-nl/>
 
 ## That's it!
 
 Demo/vragen op een rustiger moment? Laat iets weten!
 
 <bert.vanvreckem@hogent.be>
-
-of Ans-kanaal op Teams! 😉
 
 Slides:
 

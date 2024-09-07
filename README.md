@@ -12,4 +12,4 @@ This repository contains the slides for the presentations I have given. Shared u
 
 (currently, there are no talks in English published here)
 
-Laatste wijziging: Mon Jun 24 16:01:20 UTC 2024
+Laatste wijziging: Sat Sep  7 13:55:41 UTC 2024

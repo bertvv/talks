@@ -8,6 +8,16 @@ controlsLayout: 'edges'
 
 # Elektronsiche examens met ans
 
+## Even voorstellen
+
+- Bert Van Vreckem
+- Lector Informatica, dept IT & Digitale Innovatie
+- Sinds 2002 aan HOGENT
+
+Slides:
+
+![](assets/slides-url.png)
+
 ## Casus
 
 - Opleiding *PBA toegepaste informatica*
@@ -306,10 +316,16 @@ Aanpassingen blijven mogelijk!
 
 Veel mogelijk, nog niet geprobeerd 😉
 
+# That's it!
+
 ## That's it!
 
 Demo/vragen op een rustiger moment? Laat iets weten!
 
 <bert.vanvreckem@hogent.be>
 
-of Ans-kanaal op Teams
+of Ans-kanaal op Teams! 😉
+
+Slides:
+
+![](assets/slides-url.png)

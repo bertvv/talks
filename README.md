@@ -13,4 +13,4 @@ This repository contains the slides for the presentations I have given. Shared u
 
 (currently, there are no talks in English published here)
 
-Laatste wijziging: za 07 sep 2024 16:03:59 CEST
+Laatste wijziging: Sat Sep  7 15:07:33 UTC 2024

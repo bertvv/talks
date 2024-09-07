@@ -330,10 +330,12 @@ Veel mogelijk, nog niet geprobeerd 😉
 
 ## That's it!
 
-Demo/vragen op een rustiger moment? Laat iets weten!
+Demo/vragen op een rustiger moment? Ping mij op Teams!
 
 <bert.vanvreckem@hogent.be>
 
 Slides:
 
 ![](assets/slides-url.png)
+
+(voor handouts: Ctrl+P, opslaan als PDF)
